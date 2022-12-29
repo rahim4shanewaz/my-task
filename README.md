@@ -2,7 +2,7 @@
 
 A complete todo application with all features.
 
-**live demo: [https://wc-react-todo-app.netlify.app/](https://wc-react-todo-app.netlify.app/)**
+**live SITE: [https://my-task-e3cb5.web.app/](https://my-task-e3cb5.web.app/)**
 
 ---
 
